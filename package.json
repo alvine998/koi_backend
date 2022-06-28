@@ -6,6 +6,9 @@
     "start": "node ./bin/www",
     "startdev": "nodemon ./bin/www"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
