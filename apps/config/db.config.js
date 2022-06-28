@@ -16,7 +16,7 @@ module.exports = {
     HOST: "localhost",
     USER: "root",
     PASSWORD: "",
-    DB: "qmcd2421_koi",
+    DB: "koi",
     dialect: "mysql",
     pool: {
         max: 5,
